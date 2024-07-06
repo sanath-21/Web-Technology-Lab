@@ -1,0 +1,65 @@
+header{
+    background-color:aqua;
+
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-top: -8px;
+    padding-bottom: 10px;
+}
+header h1{
+    display: inline;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(71, 71, 71);
+    padding: 300px;
+}
+#image{
+    padding-left: 50px;
+    padding-top: 10px;
+    width: 80px;
+    height:  80px;
+}
+#images1{
+    width: 500px;
+    height: 500px;
+    padding-left: 150px;
+}
+#images2{
+    padding-left: 100px;
+    width: 500px;
+    height: 500px;
+}
+body h3{
+    display: inline;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#text{
+    color: rgb(3, 148, 148);
+}
+.articles{
+    display: inline;
+}
+
+.articles h4{
+    font-size: 30px;
+}
+.articles p{
+    display: grid;
+    font-size: 25px;
+    padding-right: 1200px;
+}
+.articles{
+    display: inline;
+}
+footer{
+    background-color: aqua;
+    font-size: 25px;
+    margin-left: -10px;
+    margin-right: -50px;
+    margin-top: -8px;
+    padding-bottom: 5px;
+}
+footer h5{
+    margin-left: 550px;
+}
