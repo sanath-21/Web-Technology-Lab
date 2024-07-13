@@ -1,0 +1,64 @@
+header {
+    background-color: aqua;
+}
+header img{
+    width: 80px;
+    height: 80px;
+}
+#titan
+{
+    margin-left: 35vw;
+    margin-bottom: 500px;
+    display: inline;
+    color: rgb(78, 78, 78);
+    font-size: 40px;
+}
+#bg{
+    width: 100%;
+}
+#centre h1{
+    background-color: #00b2aca9;
+    color: white;
+    margin-left: 2vw ;
+    /* margin-right: 71vw; */
+    padding-left: 1vw;
+    padding-right: 1vw;
+    margin-top: -3.5vw;
+    position: absolute;
+    
+}
+
+#treasured h3{
+    display: inline;
+    font-size: 2vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#text{
+    color: rgb(0, 95, 95);
+}
+
+section h4{
+    font-size: 1.8vw;
+    text-align: center;
+}
+section p{
+    font-size: 1vw;
+    text-align: center;
+    font-family: "Playwrite AU SA", cursive;
+}
+article img{
+   width: 20vw;
+   height: 30vh;
+   align-self: center;
+   
+}
+section{
+    display: flex;
+}
+article{
+    margin: auto;    
+    display: flex;
+    flex-direction: column;
+}
