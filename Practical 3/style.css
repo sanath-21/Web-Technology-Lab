@@ -1,0 +1,23 @@
+table th{
+    border: 3px solid black;
+    margin-top: 10px;
+    width: 90vw;
+}
+table td{
+    border: 1px solid black;
+}
+input{
+    padding: 5px;
+}
+button{
+    color: black;
+    background: aqua;
+    position: relative;
+    left: -6px;    
+    padding: 5px;
+}
+
+button:hover{
+    background-color: blueviolet;
+    
+}
